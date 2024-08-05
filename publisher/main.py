@@ -10,7 +10,7 @@ import json
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Replace with your information
-endpoint = "a3uoz4wfsx2nz3-ats.iot.ap-south-1.amazonaws.com"
+endpoint = "your-iot-endpoint.amazonaws.com"
 client_id = "test"
 cert_filepath = "./test.cert.pem.crt"
 pri_key_filepath = "./test.private.pem.key"
