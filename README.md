@@ -69,9 +69,3 @@ This repository contains code to establish an MQTT connection between an APM/LPM
 
 - The device will connect to AWS IoT Core using MQTT.
 - Messages will be sent from the device to the server, where they can be processed and stored.
-
-### Customizing the README
-
-- **Project Details**: Update project details, features, and usage instructions based on the actual implementation.
-- **Environment Variables**: Ensure the environment variables and configuration instructions match those used in your application.
-- **Contributing and License**: Adjust the contributing guidelines and licensing information according to your project's policies.
